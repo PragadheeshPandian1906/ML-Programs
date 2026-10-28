@@ -1,0 +1,6 @@
+chefboost
+jupyter
+matplotlib
+numpy
+pandas
+scikit-learn
